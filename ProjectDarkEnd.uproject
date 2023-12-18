@@ -64,6 +64,10 @@
 		{
 			"Name": "AndroidMedia",
 			"Enabled": false
+		},
+		{
+			"Name": "VRM4U",
+			"Enabled": true
 		}
 	]
 }
